@@ -1,0 +1,1 @@
+C:\Users\Shino\source\EjerciciosConRust\calculadora-basica\target\debug\calculadora-basica.exe: C:\Users\Shino\source\EjerciciosConRust\calculadora-basica\src\main.rs C:\Users\Shino\source\EjerciciosConRust\calculadora-basica\src\my_functions.rs
