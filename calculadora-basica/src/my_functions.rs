@@ -14,7 +14,7 @@ pub fn dividir_dos_numeros(numero1: f32, numero2: f32) -> Result<f32, &'static s
     }
 }
 
-pub fn multiplicar_dos_numeros(numero1: f32, numero2: f32) -> {
+pub fn multiplicar_dos_numeros(numero1: f32, numero2: f32) -> f32{
     return numero1 * numero2;
 }
 
